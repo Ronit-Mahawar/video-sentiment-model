@@ -1,0 +1,13 @@
+# virtual env
+.venv/
+
+# datasets
+dataset/
+*.tar.gz
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
